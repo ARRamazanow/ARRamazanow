@@ -1,7 +1,3 @@
-![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
-![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
-[![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
 # UFO
 
@@ -13,9 +9,9 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/54-grupe-ufo
+Site published at: 
 
-Design: https://dribbble.com/shots/2815937-404-page
+Design: 
 
 ## 🎯 Project features/goals
 
@@ -65,7 +61,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Artiom: [Github](https://github.com/ARRamazanow)
 
 ## ⚠️ License
 
