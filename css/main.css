@@ -36,7 +36,7 @@ div {
         margin-right: -20%;
         display: inline-block;
         border: 2px solid rgb(36, 155, 236); 
-        border-radius: 25px; 
+        border-radius: 25em; 
         text-decoration: none;
         transform: rotate(180deg); 
         position: justify; 
@@ -51,4 +51,4 @@ div {
          margin-left: 0%;
     }
     
-    
+     
